@@ -10,7 +10,7 @@ Perfect for quick generation straight from the terminal.
 - Easy to customize for length 
 
 ## 🛠️ Usage
+
 ```bash
-bash passwordgen.sh
 chmod +x passwordgen.sh
 ./passwordgen.sh 
