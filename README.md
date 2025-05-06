@@ -1,16 +1,26 @@
-# 🔐 Bash Password Generator
+# 🔐  Password Generator 
 
 A lightweight Bash script that generates strong random passwords using `base64`.  
 Perfect for quick generation straight from the terminal.
 
-## 🚀 Features
+##  Features
 
 - Random password generation using base64 encoding
 - Fast and dependency-free (uses system tools)
 - Easy to customize for length 
 
-## 🛠️ Usage
+## 🛠️ How To Use
 
 ```bash
-chmod +x passwordgen.sh
-./passwordgen.sh 
+# Make it executable
+
+chmod +x PasswordGen.sh
+
+# Run the script
+
+./PasswordGen.sh
+```
+##  Author
+***Aboubakr Houta*** 
+
+[GitHub Pages](https://github.com/Bakr-Ht)
