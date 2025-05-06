@@ -8,5 +8,6 @@ read -p "Entetr The Length Of The Password : " PASS_LENGTH
 
 for p in $(seq $NUM);
 do
-  echo -n "Generated password : ";openssl rand -base64 48  | cut -c1-$PASS_LENGTH
+  echo -n "Generated password : "
+  openssl rand -base64 48  | cut -c1-$PASS_LENGTH
 done
