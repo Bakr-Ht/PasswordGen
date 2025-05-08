@@ -9,7 +9,7 @@ Perfect for quick generation straight from the terminal.
 - Fast and dependency-free (uses system tools)
 - Easy to customize for length 
 
-## 🛠️ How To Use
+## How To Use
 
 ```bash
 # Make it executable
